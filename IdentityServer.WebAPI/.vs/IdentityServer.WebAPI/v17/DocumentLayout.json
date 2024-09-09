@@ -1,12 +1,156 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "G:\\My Programs\\IdentityAccessServer\\IdentityServer.WebAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65C4F815-8121-4AD7-ACA6-1883D5E81997}|IdentityServer.WebAPI\\IdentityServer.WebAPI.csproj|g:\\my programs\\identityaccessserver\\identityserver.webapi\\identityserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C4F815-8121-4AD7-ACA6-1883D5E81997}|IdentityServer.WebAPI\\IdentityServer.WebAPI.csproj|solutionrelative:identityserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C4F815-8121-4AD7-ACA6-1883D5E81997}|IdentityServer.WebAPI\\IdentityServer.WebAPI.csproj|g:\\my programs\\identityaccessserver\\identityserver.webapi\\identityserver.webapi\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C4F815-8121-4AD7-ACA6-1883D5E81997}|IdentityServer.WebAPI\\IdentityServer.WebAPI.csproj|solutionrelative:identityserver.webapi\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C4F815-8121-4AD7-ACA6-1883D5E81997}|IdentityServer.WebAPI\\IdentityServer.WebAPI.csproj|g:\\my programs\\identityaccessserver\\identityserver.webapi\\identityserver.webapi\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C4F815-8121-4AD7-ACA6-1883D5E81997}|IdentityServer.WebAPI\\IdentityServer.WebAPI.csproj|solutionrelative:identityserver.webapi\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C4F815-8121-4AD7-ACA6-1883D5E81997}|IdentityServer.WebAPI\\IdentityServer.WebAPI.csproj|g:\\my programs\\identityaccessserver\\identityserver.webapi\\identityserver.webapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C4F815-8121-4AD7-ACA6-1883D5E81997}|IdentityServer.WebAPI\\IdentityServer.WebAPI.csproj|solutionrelative:identityserver.webapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C4F815-8121-4AD7-ACA6-1883D5E81997}|IdentityServer.WebAPI\\IdentityServer.WebAPI.csproj|g:\\my programs\\identityaccessserver\\identityserver.webapi\\identityserver.webapi\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C4F815-8121-4AD7-ACA6-1883D5E81997}|IdentityServer.WebAPI\\IdentityServer.WebAPI.csproj|solutionrelative:identityserver.webapi\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C4F815-8121-4AD7-ACA6-1883D5E81997}|IdentityServer.WebAPI\\IdentityServer.WebAPI.csproj|g:\\my programs\\identityaccessserver\\identityserver.webapi\\identityserver.webapi\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C4F815-8121-4AD7-ACA6-1883D5E81997}|IdentityServer.WebAPI\\IdentityServer.WebAPI.csproj|solutionrelative:identityserver.webapi\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C4F815-8121-4AD7-ACA6-1883D5E81997}|IdentityServer.WebAPI\\IdentityServer.WebAPI.csproj|g:\\my programs\\identityaccessserver\\identityserver.webapi\\identityserver.webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C4F815-8121-4AD7-ACA6-1883D5E81997}|IdentityServer.WebAPI\\IdentityServer.WebAPI.csproj|solutionrelative:identityserver.webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C4F815-8121-4AD7-ACA6-1883D5E81997}|IdentityServer.WebAPI\\IdentityServer.WebAPI.csproj|g:\\my programs\\identityaccessserver\\identityserver.webapi\\identityserver.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65C4F815-8121-4AD7-ACA6-1883D5E81997}|IdentityServer.WebAPI\\IdentityServer.WebAPI.csproj|solutionrelative:identityserver.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\My Programs\\IdentityAccessServer\\IdentityServer.WebAPI\\IdentityServer.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "IdentityServer.WebAPI\\Program.cs",
+              "ToolTip": "G:\\My Programs\\IdentityAccessServer\\IdentityServer.WebAPI\\IdentityServer.WebAPI\\Program.cs",
+              "RelativeToolTip": "IdentityServer.WebAPI\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:53:57.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "G:\\My Programs\\IdentityAccessServer\\IdentityServer.WebAPI\\IdentityServer.WebAPI\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "IdentityServer.WebAPI\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "G:\\My Programs\\IdentityAccessServer\\IdentityServer.WebAPI\\IdentityServer.WebAPI\\Controllers\\AuthenticateController.cs*",
+              "RelativeToolTip": "IdentityServer.WebAPI\\Controllers\\AuthenticateController.cs*",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwB4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:50:32.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Response.cs",
+              "DocumentMoniker": "G:\\My Programs\\IdentityAccessServer\\IdentityServer.WebAPI\\IdentityServer.WebAPI\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "IdentityServer.WebAPI\\Models\\Response.cs",
+              "ToolTip": "G:\\My Programs\\IdentityAccessServer\\IdentityServer.WebAPI\\IdentityServer.WebAPI\\Models\\Response.cs",
+              "RelativeToolTip": "IdentityServer.WebAPI\\Models\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:49:21.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "G:\\My Programs\\IdentityAccessServer\\IdentityServer.WebAPI\\IdentityServer.WebAPI\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "IdentityServer.WebAPI\\Models\\LoginModel.cs",
+              "ToolTip": "G:\\My Programs\\IdentityAccessServer\\IdentityServer.WebAPI\\IdentityServer.WebAPI\\Models\\LoginModel.cs",
+              "RelativeToolTip": "IdentityServer.WebAPI\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:48:28.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "G:\\My Programs\\IdentityAccessServer\\IdentityServer.WebAPI\\IdentityServer.WebAPI\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "IdentityServer.WebAPI\\Models\\RegisterModel.cs",
+              "ToolTip": "G:\\My Programs\\IdentityAccessServer\\IdentityServer.WebAPI\\IdentityServer.WebAPI\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "IdentityServer.WebAPI\\Models\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:47:28.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "G:\\My Programs\\IdentityAccessServer\\IdentityServer.WebAPI\\IdentityServer.WebAPI\\Models\\UserRoles.cs",
+              "RelativeDocumentMoniker": "IdentityServer.WebAPI\\Models\\UserRoles.cs",
+              "ToolTip": "G:\\My Programs\\IdentityAccessServer\\IdentityServer.WebAPI\\IdentityServer.WebAPI\\Models\\UserRoles.cs",
+              "RelativeToolTip": "IdentityServer.WebAPI\\Models\\UserRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:46:39.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "G:\\My Programs\\IdentityAccessServer\\IdentityServer.WebAPI\\IdentityServer.WebAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "IdentityServer.WebAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "G:\\My Programs\\IdentityAccessServer\\IdentityServer.WebAPI\\IdentityServer.WebAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "IdentityServer.WebAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:36:18.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\My Programs\\IdentityAccessServer\\IdentityServer.WebAPI\\IdentityServer.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "IdentityServer.WebAPI\\appsettings.json",
+              "ToolTip": "G:\\My Programs\\IdentityAccessServer\\IdentityServer.WebAPI\\IdentityServer.WebAPI\\appsettings.json",
+              "RelativeToolTip": "IdentityServer.WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T22:32:02.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
