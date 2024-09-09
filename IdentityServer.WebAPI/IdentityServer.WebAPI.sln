@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer.WebAPI", "IdentityServer.WebAPI\IdentityServer.WebAPI.csproj", "{65C4F815-8121-4AD7-ACA6-1883D5E81997}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65C4F815-8121-4AD7-ACA6-1883D5E81997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C4F815-8121-4AD7-ACA6-1883D5E81997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C4F815-8121-4AD7-ACA6-1883D5E81997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C4F815-8121-4AD7-ACA6-1883D5E81997}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99ABB157-E94F-4E64-BEF0-8D3CAD6CAB33}
+	EndGlobalSection
+EndGlobal
